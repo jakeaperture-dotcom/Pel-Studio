@@ -1,0 +1,18 @@
+[element-theme="1"] {
+	--color--background: var(--light--background);
+	--color--text: var(--light--text);
+	--color--button-background: var(--light--button-background);
+  --color--hover-color: var(--light--hover-color);
+}
+[element-theme="2"] {
+	--color--background: var(--dark--background);
+	--color--text: var(--dark--text);
+	--color--button-background: var(--dark--button-background);
+  --color--hover-color: var(--dark--hover-color);
+}
+[element-theme="3"] {
+	--color--background: var(--brand--background);
+	--color--text: var(--brand--text);
+	--color--button-background: var(--brand--button-background);
+  --color--hover-color: var(--brand--hover-color);
+}
